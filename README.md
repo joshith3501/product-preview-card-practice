@@ -5,5 +5,6 @@ This is a simple product preview card which is implemented using simple HTML and
 
 This is practice challenge by frontend mentor. Here is the [link](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
+___
 # Remarks
 This challenge simply tests the HTML and CSS skills
